@@ -1,4 +1,4 @@
-# sloth-project-profile
+# SlothAI项目简介
 所有仓库将会包含深度学习、前后端开发、大数据开发等相关的技术创新分享。
 
 有任何问题都欢迎咨询微信：slothalone
