@@ -36,7 +36,7 @@
 
 你可以在以下渠道找到我：
 
-- 📍 网站地址：https://slothai.cn
+- 📍 网站地址：www.slothai.cn
 - 🎬 B站：搜索【秋雨行舟】
 - 📚 精选论文索取：添加微信【slothalone】
 
